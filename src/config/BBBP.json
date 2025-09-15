@@ -1,0 +1,22 @@
+{
+  "gumbel": {
+	"num_iters": 10,
+	"init_temperature": 0.1,
+	"final_temperature": 0.1,
+	"epoch": 10,
+	"noise_factor": 0.001	
+  },
+  "gedan": {
+    "input_size": 9,
+    "latent_space": 16,
+    "n_layer": 3
+  },
+  "options":{
+  	"batch_size": 64,
+  	"regression": 0,
+  	"limit_select": 9,
+  	"y_output": 1,
+  	"epochs": 30000,
+  	"refresh": 5
+  }
+}

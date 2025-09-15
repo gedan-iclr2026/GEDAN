@@ -1,0 +1,16 @@
+{
+  "gumbel": {
+	"num_iters": 10,
+	"init_temperature": 0.1,
+	"final_temperature": 0.1,
+	"noise_factor": 0.00001	
+  },
+  "gedan": {
+    "input_size": 9,
+    "latent_space": 64,
+    "n_layer": 4,
+    "bs_train": 256,
+    "bs_test": 256,
+    "lr": 0.01
+  }
+}
