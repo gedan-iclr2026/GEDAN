@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # GEDAN: Learning the Edit Costs for Graph Edit Distance
 
 This repository contains the code for the anonymous submission **"GEDAN: Learning the Edit Costs for Graph Edit Distance"**. The project introduces an interpretable GNN framework for approximating Graph Edit Distance (GED) through context-aware edit cost learning, applicable in both supervised and unsupervised settings, and effective for molecular analysis.
@@ -88,7 +86,3 @@ Example:
 ```
 python script_EC.py --dataset FreeSolv
 ```
-
-=======
-# GEDAN
->>>>>>> origin/main
